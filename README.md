@@ -85,7 +85,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Contributor:
 <a href="https://github.com/ThiHoangPham">
-  <img alt="Twitter: AdamThaiHoang1" src="https://contrib.rocks/image?repo=ThiHoangPham/team-profile-generator-adam-homework10" target="_blank" />
+  <img alt="Twitter: AdamThaiHoang1" src="https://contrib.rocks/image?repo=ThiHoangPham/note-taker" target="_blank" />
   </a>
 
 ## Contribution:
