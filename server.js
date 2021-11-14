@@ -55,6 +55,12 @@ app.delete("api/note/:id", function (req, res) {
             break;
         }
     }
-
-})
+    fs.writeFileSync(jsonFilePath, JSON.stringify(database), function (err) {
+        if (err) {
+            return console.log(err);
+        } else {
+            console.log("Your Notes Were Deleted!")
+        }
+    });
+});
 // final setup for server
