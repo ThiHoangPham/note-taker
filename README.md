@@ -98,4 +98,6 @@ Github: [Thai Hoang(Adam), Pham](https://github.com/ThiHoangPham)
 Email: thaihoangpham2008@gmail.com
 <p align ="right"><a href="#">↥ back to top</a></p>
 
+- - -
 
+© 2021 Thai Hoang(Adam), Pham: Note Taker
