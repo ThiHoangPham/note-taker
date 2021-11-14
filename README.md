@@ -79,4 +79,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 <a href="https://note-taker-express-js-adam.herokuapp.com/">
   <img alt="live demo heroku" src="https://img.shields.io/badge/Demo-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank" />
   </a>
+
+## Installation:
+`npm install`, `node server.js`
+
+## Contributor:
+<a href="https://github.com/ThiHoangPham">
+  <img alt="Twitter: AdamThaiHoang1" src="https://contrib.rocks/image?repo=ThiHoangPham/team-profile-generator-adam-homework10" target="_blank" />
+  </a>
+
+## Contribution:
+Please email to me if you have any contribution, I am more than happy with that. Thank you!
     
