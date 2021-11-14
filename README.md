@@ -90,4 +90,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Contribution:
 Please email to me if you have any contribution, I am more than happy with that. Thank you!
-    
+
+## Contact Information:
+
+Github: [Thai Hoang(Adam), Pham](https://github.com/ThiHoangPham)
+
+Email: thaihoangpham2008@gmail.com
+<p align ="right"><a href="#">↥ back to top</a></p>
+
+
