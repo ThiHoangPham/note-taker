@@ -63,4 +63,8 @@ app.delete("api/note/:id", function (req, res) {
         }
     });
 });
+
 // final setup for server
+app.listen(PORT, function () {
+    console.log("App listening on PORT" + PORT);
+});
