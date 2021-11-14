@@ -1,2 +1,43 @@
-# note-taker
+![Note Taker](./public/assets/img/note-taker-img.png)
+<h1 align="center"> Express.JS: 
+<br>Note Taker 👋</h1>
+<p align="center">
+  <a href="#">
+  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
+  <a href="#">
+  <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank" />
+  <a href="#">
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascriptlogoColor=black"
+  <a href="#">
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
+  <a href="#">
+  <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"target="_blank" />
+  <br>
+  <a href="https://www.buymeacoffee.com/adampham123">
+  <img alt="donate buy me a coffee" src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=flat-square" target="_blank" />
+  <a href="#">
+  <img alt="watchers" src="https://img.shields.io/github/watchers/ThiHoangPham/note-taker?color=%2346b946&style=flat-square" target="_blank" />
+  <a href="#">
+  <img alt="rep size" src="https://img.shields.io/github/repo-size/ThiHoangPham/note-taker?style=flat-square" target="_blank" />
+  <a href="https://github.com/ThiHoangPham/note-taker/blob/main/LICENSE">
+  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square" target="_blank" />
+  </a>
+  <a href="#">
+  <img alt="fork" src="https://img.shields.io/github/forks/ThiHoangPham/note-taker.svg?style=flat-square" target="_blank" />
+  <a href="#">
+  <img alt="repo star" src="https://img.shields.io/github/stars/ThiHoangPham/note-taker?color=%23ff00bf&style=flat-square" target="_blank" />
+  </a>
+  <a href="#">
+  <img alt="made with vs code" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg?style=flat-square" target="_blank" />
+  </a>
+  <a href="#">
+  <img alt="top language" src="https://img.shields.io/github/languages/top/ThiHoangPham/note-taker?color=%23ff4000&style=flat-square" target="_blank" />
+  </a>
+  <a href="https://twitter.com/AdamThaiHoang1">
+  <img alt="Twitter: AdamThaiHoang1" src="https://img.shields.io/twitter/follow/AdamThaiHoang1?logo=twitter&style=flat-square" target="_blank" />
+  </a>
+</p>
+<hr>
+
+## Description:
 An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
