@@ -36,8 +36,15 @@ app.route("/api/notes")
                 highestId = individualNote.id;
             }
         }
-
-    })
+        newNote.id = highestId + 1;
+        database.push(newNote);
+        fs.writeFile(jsonFilePath, JSON.stringify(database), function (err) {
+            if (err) {
+                return console.log(err);
+            }
+            console.log("Your notes were saved");
+        });
+    });
 
 // delete
 
